@@ -1,4 +1,4 @@
-package HTMLAdapter
+package adapterHTML
 
 import "html/template"
 
