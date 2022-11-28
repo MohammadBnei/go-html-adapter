@@ -1,5 +1,12 @@
 
 
+# [1.0.0](https://github.com/MohammadBnei/go-html-adapter/compare/0.2.0...1.0.0) (2022-11-28)
+
+
+### Features
+
+* **name:** changed folder structure to use adapterHTML package name ([fdf4d1d](https://github.com/MohammadBnei/go-html-adapter/commit/fdf4d1d104f8a0608ec222a015a134a9c39ff9bb))
+
 # [0.2.0](https://github.com/MohammadBnei/go-html-adapter/compare/0.1.0...0.2.0) (2022-11-28)
 
 
