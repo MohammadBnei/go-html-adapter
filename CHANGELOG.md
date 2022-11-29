@@ -1,5 +1,12 @@
 
 
+## [1.0.1](https://github.com/MohammadBnei/go-html-adapter/compare/1.0.0...1.0.1) (2022-11-29)
+
+
+### Bug Fixes
+
+* **readme:** added readme ([ee6d8d5](https://github.com/MohammadBnei/go-html-adapter/commit/ee6d8d5aecdcceb14356c3301d6f84d3a61f7b4a))
+
 # [1.0.0](https://github.com/MohammadBnei/go-html-adapter/compare/0.2.0...1.0.0) (2022-11-28)
 
 
